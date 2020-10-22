@@ -57,7 +57,7 @@ Click to expand.<br>
 This project was developed with the following technologies:
 
 - [HTML5]
-- [SASS]
+- [SASS](https://sass-lang.com/guide)
 
 
 ## 🔖 Layout
