@@ -28,9 +28,9 @@
 
 </p>
 
-## :information_source: What's Next Level Week?
+## :information_source: Slab-shot?
 
-NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level. 
+SLABSHOT is being used in mentoring with the aim: to take you to the next level.
 
 ### Days
 - 1º Dia: Marcação com HTML semantico (Screenshot) 20/10 - :heavy_check_mark:
@@ -41,14 +41,14 @@ NLW is a practical week with lots of code, challenges, networking and a single o
 
 ## 💻 Project
 
-slab-shot is a project developed based on Children's Day. 
-That aims to connect people to orphanages that allow to make a children's day more special.
+Slab-shot is a project developed based on a free figma layout, for training.
 
-Acesse project [Netlify](https://slab-shot-fredericoespeschit.netlify.app/)
+
+Acesse project [Netlify](https://slab-shot-fredericoespeschit.netlify.app/) :construction:
 
 ## 📸 Screenshots
 Click to expand.<br>
-<img src="https://github.com/fredericoespeschit/slab-shot/blob/main/public/slab-shot-print1.png" width="49%"/>
+<img src="https://github.com/fredericoespeschit/slab-shot/blob/main/images/screenshots/slab-shot-print1.png" width="49%"/>
 
 
 ## :rocket: Technologies
