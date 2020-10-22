@@ -1,0 +1,42 @@
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 78.1vh;
+
+    //incluir imagem com background
+
+    .container {
+        width: 960px;
+        display: flex;
+        flex-direction: column;
+
+        h1 {
+            width: 645px;
+            font-size: 80px;
+            line-height: 110%;
+            color: $two;
+        }
+
+        p {
+            margin: 30px 0;
+            width: 380px;
+            color: $one;
+            line-height: 160%;
+        }
+
+        .button {
+            width: 170px;
+            height: 60px;
+            background: #9c69e2;
+            display: flex;
+            justify-content: center;
+            border-radius: 50px;
+
+            a {
+                align-self: center;
+                color: #fff;
+            }
+        }
+    }
+}

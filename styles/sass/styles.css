@@ -113,4 +113,62 @@ header .container .navbar .button a {
 header .container .navbar .button a img {
   margin-left: 12px;
 }
+
+main {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 78.1vh;
+}
+
+main .container {
+  width: 960px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+main .container h1 {
+  width: 645px;
+  font-size: 80px;
+  line-height: 110%;
+  color: #212353;
+}
+
+main .container p {
+  margin: 30px 0;
+  width: 380px;
+  color: #4B5D68;
+  line-height: 160%;
+}
+
+main .container .button {
+  width: 170px;
+  height: 60px;
+  background: #9c69e2;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  border-radius: 50px;
+}
+
+main .container .button a {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  color: #fff;
+}
 /*# sourceMappingURL=styles.css.map */
