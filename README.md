@@ -56,7 +56,7 @@ Click to expand.<br>
 
 This project was developed with the following technologies:
 
-- [HTML5]
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 - [SASS](https://sass-lang.com/guide)
 
 
