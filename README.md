@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="#-nlw">Slabshot</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-slbs">Slabshot</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -34,10 +34,8 @@ SLABSHOT is being used in mentoring with the aim: to take you to the next level.
 
 ### Days
 - 1º Dia: Marcação com HTML semantico (Screenshot) 20/10 - :heavy_check_mark:
-- 2º Dia: I 13/10 - :heavy_check_mark:
-- 3º Dia: A escolha da Stack 14/10 - :construction:
-- 4º Dia: Até 2 anos em 2 meses 15/10 - :construction:
-- 5º Dia: Milha extra 16/10 - :construction:
+- 2º Dia:  Início: Bora coda? 22/10 - :construction:
+
 
 ## 💻 Project
 
@@ -50,6 +48,9 @@ Acesse project [Netlify](https://slab-shot-fredericoespeschit.netlify.app/) :con
 Click to expand.<br>
 <img src="https://github.com/fredericoespeschit/slab-shot/blob/main/images/screenshots/slab-shot-print1.png" width="49%"/>
 
+
+## 📸 Screenshots Marking
+<img src="https://github.com/fredericoespeschit/slab-shot/blob/main/images/screenshots/slab-shot-marcacao1.png" width="49%"/>
 
 ## :rocket: Technologies
 
