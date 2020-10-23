@@ -46,12 +46,12 @@ Acesse project [Netlify](https://slab-shot-fredericoespeschit.netlify.app/) :con
 
 ## 📸 Screenshots
 Click to expand.<br>
-<img src="https://github.com/fredericoespeschit/slab-shot/blob/main/images/screenshots/slab-shot-print1.png" width="49%"/>
-<img src="https://github.com/fredericoespeschit/slab-shot/blob/main/images/screenshots/slab-shot-print2.png" width="49%"/>
+<img src="https://github.com/fredericoespeschit/slab-shot/blob/main/images/screenshots/slab-shot-print1.png" width="45%"/>
+<img src="https://github.com/fredericoespeschit/slab-shot/blob/main/images/screenshots/slab-shot-print2.png" width="45%"/>
 
 ## 📸 Screenshots Marking
-<img src="https://github.com/fredericoespeschit/slab-shot/blob/main/images/screenshots/slab-shot-marcacao1.png" width="49%"/>
-<img src="https://github.com/fredericoespeschit/slab-shot/blob/main/images/screenshots/slab-shot-marcacao2.png" width="49%"/>
+<img src="https://github.com/fredericoespeschit/slab-shot/blob/main/images/screenshots/slab-shot-marcacao1.png" width="45%"/>
+<img src="https://github.com/fredericoespeschit/slab-shot/blob/main/images/screenshots/slab-shot-marcacao2.png" width="45%"/>
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
