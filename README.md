@@ -51,7 +51,7 @@ Click to expand.<br>
 
 ## 📸 Screenshots Marking
 <img src="https://github.com/fredericoespeschit/slab-shot/blob/main/images/screenshots/slab-shot-marcacao1.png" width="49%"/>
-
+<img src="https://github.com/fredericoespeschit/slab-shot/blob/main/images/screenshots/slab-shot-marcacao2.png" width="49%"/>
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
