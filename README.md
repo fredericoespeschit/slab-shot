@@ -29,7 +29,6 @@
 </p>
 
 ## :information_source: Slab-shot?
-
 SLABSHOT is being used in mentoring with the aim: to take you to the next level.
 
 ### Days
@@ -38,7 +37,6 @@ SLABSHOT is being used in mentoring with the aim: to take you to the next level.
 
 
 ## 💻 Project
-
 Slab-shot is a project developed based on a free figma layout, for training.
 
 
@@ -52,18 +50,16 @@ Click to expand.<br>
 ## 📸 Screenshots Marking
 <img src="https://github.com/fredericoespeschit/slab-shot/blob/main/images/screenshots/slab-shot-marcacao1.png" width="45%"/>
 <img src="https://github.com/fredericoespeschit/slab-shot/blob/main/images/screenshots/slab-shot-marcacao2.png" width="45%"/>
+
+
 ## :rocket: Technologies
-
 This project was developed with the following technologies:
-
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 - [SASS](https://sass-lang.com/guide)
 
 
 ## 🔖 Layout
-
 To access the layout use [Figma](https://www.figma.com/file/3QYe413SHr9nD7dEM6TGvn/SLAB-SHOT-Datawarehouse-Freebie?node-id=413%3A3).
 
 ## :memo: License
-
 This project is under the MIT license. See the [LICENSE](https://github.com/fredericoespeschit/slab-shot/blob/master/LICENSE) for details.
