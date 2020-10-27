@@ -7,7 +7,20 @@
     .container {
         width: 960px;
         display: flex;
-     background: red;
+        .bloco {
+            width: 390px;
+            height: 280px;
+            display: flex;
+            background: green;
 
-    }    
-}    
+            .content {
+                display: flex;
+                background: hotpink;
+                .cont {
+                    
+                }
+              
+            }
+        }
+    }
+}

@@ -271,6 +271,21 @@ main .container .button a {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background: red;
+}
+
+#blocks .container .bloco {
+  width: 390px;
+  height: 280px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background: green;
+}
+
+#blocks .container .bloco .content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background: hotpink;
 }
 /*# sourceMappingURL=styles.css.map */
