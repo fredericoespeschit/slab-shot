@@ -8,19 +8,41 @@
         width: 960px;
         display: flex;
         .bloco {
-            width: 390px;
+            width: 400px;
             height: 280px;
             display: flex;
-            background: green;
 
             .content {
                 display: flex;
-                background: hotpink;
+ 
                 .cont {
+                    display: flex;
+                    align-self: center;
+                    flex-direction: column;
+
+                    h2 {
+                        font-size: 24px;
+                        color: #212353;
+                        line-height: 130%;
+                    }
                     
+                    p {
+                        font-size: 15px;
+                        color: #4B5D68;
+                        line-height: 160%;
+                        margin: 10px 0;
+                    }
+                   
+
+                    .button {
+                        display: flex;
+                        align-items: center;
+                        
+                        
+                    }
                 }
-              
             }
+         
         }
     }
 }

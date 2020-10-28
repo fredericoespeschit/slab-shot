@@ -274,18 +274,50 @@ main .container .button a {
 }
 
 #blocks .container .bloco {
-  width: 390px;
+  width: 400px;
   height: 280px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background: green;
 }
 
 #blocks .container .bloco .content {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background: hotpink;
+}
+
+#blocks .container .bloco .content .cont {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-item-align: center;
+      align-self: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+#blocks .container .bloco .content .cont h2 {
+  font-size: 24px;
+  color: #212353;
+  line-height: 130%;
+}
+
+#blocks .container .bloco .content .cont p {
+  font-size: 15px;
+  color: #4B5D68;
+  line-height: 160%;
+  margin: 10px 0;
+}
+
+#blocks .container .bloco .content .cont .button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 /*# sourceMappingURL=styles.css.map */
