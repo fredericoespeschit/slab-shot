@@ -321,7 +321,7 @@ main .container .button a {
           flex-direction: column;
 }
 
-#blocks .container .bloco .content .cont h2 {
+#blocks .container .bloco .content .cont h3 {
   font-size: 24px;
   color: #212353;
   line-height: 130%;

@@ -3,8 +3,6 @@
     justify-content: center;
     align-items: center;
 
-   
-
     .blocs {
         width: 960px;
         display: flex;
@@ -30,18 +28,16 @@
                 img {
                     height: 100%;
                     margin-top: auto;
-                   margin-left: -60px;
-                   margin-right: 6px;
-                   
+                    margin-left: -60px;
+                    margin-right: 6px;
                 }
 
                 .cont {
                     display: flex;
                     align-self: center;
                     flex-direction: column;
-                    
 
-                    h2 {
+                    h3 {
                         font-size: 24px;
                         color: #212353;
                         line-height: 130%;
@@ -54,17 +50,14 @@
                         margin: 10px 16px 10px 0;
                     }
 
-                    .button {
-                      
+                    //Utilizando Herança CSS
+                    .button a {
+                        display: flex;
                         
-                        
-                        a {
-                           
-                            display: flex;
-                            img {
-                                margin-left: 10px;
-                            }
+                        img {
+                            margin-left: 10px;
                         }
+                       
                     }
                 }
             }
