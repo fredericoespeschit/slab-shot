@@ -1,0 +1,20 @@
+#test {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+    .container {
+        width: 960px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+     
+
+        .testimonials {
+            width: 1118px;
+            height: 709px;
+            background: #9C69E2;
+            border-radius: 50px;
+        }
+    }
+}
