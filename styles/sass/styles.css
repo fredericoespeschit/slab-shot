@@ -387,32 +387,49 @@ main .container .button a {
   margin: 120px 0 80px 0;
 }
 
-#test .container .testimonials .testimonial {
+#test .container .testimonials .testemunhas {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  margin-left: 80px;
 }
 
-#test .container .testimonials .conteudo * {
+#test .container .testimonials .testemunhas .primeiro {
+  width: 945px;
+  height: 330px;
+  background-color: #FFF;
+}
+
+#test .container .testimonials .testemunhas .testimonial {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-right: 30px;
+}
+
+#test .container .testimonials .testemunhas .conteudo * {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   width: 370px;
 }
 
-#test .container .testimonials .conteudo > h5 {
+#test .container .testimonials .testemunhas .conteudo > h5 {
   font-size: 18px;
   line-height: 28.8px;
   letter-spacing: 0.5%;
 }
 
-#test .container .testimonials .conteudo > span {
+#test .container .testimonials .testemunhas .conteudo > span {
   font-size: 14px;
   line-height: 22.4px;
   letter-spacing: 1%;
 }
 
-#test .container .testimonials .conteudo p {
+#test .container .testimonials .testemunhas .conteudo p {
   font-size: 18px;
   line-height: 25px;
 }
