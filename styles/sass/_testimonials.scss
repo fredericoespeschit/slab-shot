@@ -1,65 +1,9 @@
-#test {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 90px;
+#testimonials {
     .container {
         width: 960px;
         display: flex;
+        flex-direction: column;
         align-items: center;
         justify-content: center;
-
-        .testimonials {
-            width: 1118px;
-            height: 709px;
-            background: #9c69e2;
-            border-radius: 50px;
-
-            h3 {
-                margin: 120px 0 80px 0;
-            }
-
-            .testemunhas {
-                display: flex;
-             
-                margin-left: 50px;
-              
-                .testimonial {
-                    display: flex;
-                    align-items: center;
-                    
-                    margin-right: 20px;
-                    height: 260px;
-                    background-color: white;
-                }
-                .testimonial > img {
-                    margin-top: -80px;
-                    margin-right: 20px;
-                    margin-left: 20px;
-                }
-                .conteudo * {
-                    display: flex;
-                    width: 370px;
-                }
-                .conteudo > h5 {
-                    font-size: 18px;
-                    line-height: 28.8px;
-                    letter-spacing: 0.5%;
-                }
-
-                .conteudo > span {
-                    font-size: 14px;
-                    line-height: 22.4px;
-                    letter-spacing: 1%;
-                }
-
-                .conteudo p {
-                    width: 320px;
-                    
-                    font-size: 18px;
-                    line-height: 25px;
-                }
-            }
-        }
     }
 }

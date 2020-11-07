@@ -350,90 +350,20 @@ main .container .button a {
   margin-left: 10px;
 }
 
-#test {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  margin-top: 90px;
-}
-
-#test .container {
+#testimonials .container {
   width: 960px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-}
-
-#test .container .testimonials {
-  width: 1118px;
-  height: 709px;
-  background: #9c69e2;
-  border-radius: 50px;
-}
-
-#test .container .testimonials h3 {
-  margin: 120px 0 80px 0;
-}
-
-#test .container .testimonials .testemunhas {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  margin-left: 50px;
-}
-
-#test .container .testimonials .testemunhas .testimonial {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  margin-right: 20px;
-  height: 260px;
-  background-color: white;
-}
-
-#test .container .testimonials .testemunhas .testimonial > img {
-  margin-top: -80px;
-  margin-right: 20px;
-  margin-left: 20px;
-}
-
-#test .container .testimonials .testemunhas .conteudo * {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  width: 370px;
-}
-
-#test .container .testimonials .testemunhas .conteudo > h5 {
-  font-size: 18px;
-  line-height: 28.8px;
-  letter-spacing: 0.5%;
-}
-
-#test .container .testimonials .testemunhas .conteudo > span {
-  font-size: 14px;
-  line-height: 22.4px;
-  letter-spacing: 1%;
-}
-
-#test .container .testimonials .testemunhas .conteudo p {
-  width: 320px;
-  font-size: 18px;
-  line-height: 25px;
 }
 /*# sourceMappingURL=styles.css.map */
