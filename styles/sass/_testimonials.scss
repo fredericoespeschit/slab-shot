@@ -21,19 +21,21 @@
 
             .testemunhas {
                 display: flex;
-                margin-left: 80px;
-                .primeiro {
-                    
-                    width: 945px;
-                    height: 330px;
-                    background-color: #FFF;
-                }
+             
+                margin-left: 50px;
+              
                 .testimonial {
                     display: flex;
                     align-items: center;
-                    margin-right: 30px;
+                    
+                    margin-right: 20px;
+                    height: 260px;
+                    background-color: white;
                 }
                 .testimonial > img {
+                    margin-top: -80px;
+                    margin-right: 20px;
+                    margin-left: 20px;
                 }
                 .conteudo * {
                     display: flex;
@@ -52,6 +54,8 @@
                 }
 
                 .conteudo p {
+                    width: 320px;
+                    
                     font-size: 18px;
                     line-height: 25px;
                 }
